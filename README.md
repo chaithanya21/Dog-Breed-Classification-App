@@ -32,6 +32,33 @@ The Model acheived a Test accuracy of 16% when Trained Using a Convolutional Neu
 
 The Model acheived a Test Accuracy of 76% when Trained using a Pre-Trained VGG16 Model for 25 epochs, The Performance of the model can be improved using othet pre-trained models such as RESNET and Inception Networks.  
 
+<h2>Softwares and Libraries</h2>
+
+[Python 2.7 or Higher](https://www.python.org/downloads/)
+
+[Numpy](https://pypi.org/project/numpy/)
+
+[Matplotlib](https://pypi.org/project/matplotlib/)
+
+[Pandas](https://pypi.org/project/pandas/)
+
+[Jupyter Notebook](https://jupyter.org/install)
+
+[OpenCV](https://opencv.org/)
+
+<h2>Project Instructions</h2>
+
+Download the project materials from the GitHub repository by using the Download  option or Clone the github repository.After Dowloading or Cloning Navigate to the Home Folder of the Project.
+
+```
+https://github.com/chaithanya21/Dog-Breed-Image-Classification-Using-CNNs-and-Transfer-Learning-In-Pytorch.git
+cd Dog-Breed-Image-Classification-Using-CNNs-and-Transfer-Learning-In-Pytorch
+```
+Run the following to open up the notebook server:jupyter notebook
+
+In your browser, open Dog_Breed_Image_Classification.ipynb
+
+
 
 
 
