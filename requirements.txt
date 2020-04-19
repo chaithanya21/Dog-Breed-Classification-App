@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pandas
+python
+jupyter notebook
+OpenCV
